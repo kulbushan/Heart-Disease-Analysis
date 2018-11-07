@@ -1,4 +1,4 @@
-Age,Sex,Chest Pain Type,Resting Blood Pressure,Serum Cholestoral,Fasting Blood Sugar,Resting Electrocardiographic,Max Heart Rate Achieved,Exercise Induced Angina, Old Peak,Slope of Peak Exercise ST Segment,Colored Fluoroscopy,Thal(Thalassemia),Diagnosis of heart disease
+Age,Sex,Chest Pain Type,Resting Blood Pressure,Serum Cholestoral,Fasting Blood Sugar,Resting Electrocardiographic,Max Heart Rate Achieved,Exercise Induced Angina, Old Peak,Slope of Peak Exercise ST Segment,Colored Fluoroscopy,Thalassemia,Diagnosis of heart disease
 63.0,1.0,1.0,145.0,233.0,1.0,2.0,150.0,0.0,2.3,3.0,0.0,6.0,0
 67.0,1.0,4.0,160.0,286.0,0.0,2.0,108.0,1.0,1.5,2.0,3.0,3.0,2
 67.0,1.0,4.0,120.0,229.0,0.0,2.0,129.0,1.0,2.6,2.0,2.0,7.0,1
