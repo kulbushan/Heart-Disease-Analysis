@@ -3,7 +3,7 @@
 # Predicting Heart Disease using Python
 
 ## Author
-Student Name: Kulbushan Shah 
+Name: Kulbushan Shah 
 
 
 
