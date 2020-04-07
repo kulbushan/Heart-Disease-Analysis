@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart Disease Analysis
 # Source code for DSA8002 coursework 1
 # Predicting Heart Disease using Python
 
